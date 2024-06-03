@@ -1,0 +1,42 @@
+{
+  "Name": "01 auditory/spm-prepoc",
+  "BIDSVersion": "1.6.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Jiani",
+    "Nur"
+    "Valerie"
+    "Kasey"
+
+  ],
+  "Acknowledgements": 
+  "Funding": [
+    "National Institute of Neuroscience Grant F378236MFH1",
+    "National Institute of Neuroscience Grant 5RMZ0023106"
+  ],
+  "EthicsApprovals": [
+  ],
+  "ReferencesAndLinks": [
+    "https://bids-specification.readthedocs.io/en/stable/modality-agnostic-files.html#dataset_descriptionjson",
+    "https://www.fil.ion.ucl.ac.uk/spm/doc/spm12_manual.pdf"
+  ],
+  "DatasetDOI": "",
+  "HEDVersion": "",
+  "GeneratedBy": [
+    {
+      "Name": "reproin",
+      "Version": "0.6.0",
+      "Container": {
+        "Type": "docker",
+        "Tag": "repronim/reproin:0.6.0"
+      }
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "",
+      "Version": "June 1, 2024"
+    }
+  ]
+}
